@@ -1,5 +1,5 @@
-var noms['Michel Varrek','Jim Carrey','Albert Einstein','Vivaldi','Emma Watson','Renaud','Eminen','Paul Rudd','Jacques','Bernadette','Léa','Jhonny depp','The Rock','Billy Obann','Jacquie','Michel','Gotaga''Philippe Etchebest','H.P. Lovecraft', 'Bill Gates'];
-var objets[];
+var noms['Michel Varrek','Jim Carrey','Albert Einstein','Vivaldi','Emma Watson','Renaud','Eminen','Paul Rudd','Jacques','Bernadette','Léa','Jhonny depp','The Rock','Billy Obann','Jacquie','Michel','Gotaga', 'Philippe Etchebest','H.P. Lovecraft', 'Bill Gates'];
+var objets['ordinateur', 'telephone', 'telephone portable', 'montre', 'ordinateur', 'dé à coudre', 'decapsuleur', 'ballon de foot', 'un clavier', 'marteau', 'une tasse', 'pièce', 'pièces jaune', 'lunette de soleil', 'sabre', 'cuillère','fourchette', 'tasse', 'manette', 'clavier', 'avion', 'miche de pain', 'ordinateur', 'velo'];
 var temperatures[];
 var lieux[];
 var verbes['coder', 'copier', 'coordonner', 'nager', 'monter', 'avoir', 'être', 'aimer', 'se passionner', 'développer', 'jouer', 'soulever', 'évoluer', 'voter', 'arnaquer', 'manger', 's\'envoyer', 'enfourner', 'accomplir', 'communiquer'];
