@@ -1,4 +1,4 @@
-var noms = ['Michel Varrek', 'Jim Carrey', 'Albert Einstein', 'Vivaldi', 'Emma Watson', 'Renaud', 'Eminen', 'Paul Rudd', 'Jacques', 'Bernadette', 'Léa', 'Jhonny Depp', 'The Rock', 'Billy Obann', 'Jacquie', 'Michel', 'Gotaga', 'Philippe Etchebest', 'H.P. Lovecraft', 'Bill Gates'];
+var noms = ['Michel Varuk', 'Jim Carrey', 'Albert Einstein', 'Vivaldi', 'Emma Watson', 'Renaud', 'Eminen', 'Paul Rudd', 'Jacques', 'Bernadette', 'Léa', 'Johnny Depp', 'The Rock', 'Billy Obann', 'Jacquie', 'Michel', 'Gotaga', 'Philippe Etchebest', 'H.P. Lovecraft', 'Bill Gates'];
 var objets = ['telephone', 'telephone portable', 'montre', 'dé à coudre', 'décapsuleur', 'ballon de foot', 'marteau', 'pièce', 'pièces jaune', 'lunette de soleil', 'sabre', 'cuillère','fourchette', 'tasse', 'manette', 'clavier', 'avion', 'miche de pain', 'ordinateur', 'vélo'];
 var temperatures = [];
 var lieux = ['Floyon', 'Wignehies', 'Barcelona', 'Paris', 'Reykjavik', 'Bondy', 'Rio De Janeiro', 'Mons', 'Le Touquet', 'Trélon', 'Fourmies', 'Big Ben', 'Mont Fuji', 'Palais de l\'élysée', 'Mairie de Paris', 'Mc Donald', 'KFC', 'Burger King', 'Moncuq', 'Chutes du Niagara', 'HiPark'];
